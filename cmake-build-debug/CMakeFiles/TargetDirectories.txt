@@ -1,0 +1,3 @@
+/home/yulu/CLionProjects/project293/cmake-build-debug/CMakeFiles/project293.dir
+/home/yulu/CLionProjects/project293/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yulu/CLionProjects/project293/cmake-build-debug/CMakeFiles/rebuild_cache.dir
